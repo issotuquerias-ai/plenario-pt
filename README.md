@@ -14,6 +14,26 @@
 
 ---
 
+## 📸 Capturas
+
+<div align="center">
+
+<img src="docs/screenshots/menu.png" width="800"/>
+
+*Menu inicial, com a Assembleia da República em 3D*
+
+<img src="docs/screenshots/novo-jogo.png" width="800"/>
+
+*Escolher um partido real ou fundar um novo*
+
+<img src="docs/screenshots/campanha.png" width="800"/>
+
+*Campanha: mapa dos círculos, agenda de ações, sondagens e projeção de mandatos*
+
+</div>
+
+---
+
 ## 🎮 O que é
 
 Um simulador político em 3D que corre no navegador, **sem instalar nada e sem internet**. Escolhes um partido real (ou fundas o teu), fazes campanha, ganhas (ou não) as eleições e depois governas: propões leis, negoceias o Orçamento e lidas com crises.
