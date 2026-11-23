@@ -1,0 +1,8 @@
+node_modules/
+dist/
+assets/figuras/
+assets/logos/
+tools/shots/
+tools/test3d.bundle.js
+*.log
+.env
